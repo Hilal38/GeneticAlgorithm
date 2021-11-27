@@ -56,7 +56,7 @@ for it=1:iterasyon
         
     popc=popc(:);
     
-    %mutasyon - 
+    %mutation
     popm=repmat(birey,Npop,1);
 
     for j=1:Npopm
